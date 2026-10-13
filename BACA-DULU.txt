@@ -1,0 +1,14 @@
+TES REACT — PERTEMUAN 1 SAMPAI 6
+================================
+
+1. Jalankan:   npm install
+               npm run dev
+
+2. Berkas src/data/menu.js SUDAH DISEDIAKAN. Jangan diubah isinya.
+
+3. Kerjakan di src/App.jsx dan buat komponen baru di src/components/
+
+4. Kumpulkan seluruh folder ini TANPA node_modules, dalam bentuk .zip
+   dengan nama: NIM_Nama_TesReact.zip
+
+Selamat mengerjakan.
